@@ -79,3 +79,4 @@
 (add-hook 'post-command-hook 'AZIK-force-popup-tip)
 
 (provide 'drill-instructor-AZIK-force)
+;;; drill-instructor-AZIK-force.el ends here
